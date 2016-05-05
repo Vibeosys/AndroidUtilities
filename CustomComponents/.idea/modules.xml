@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomComponents.iml" filepath="$PROJECT_DIR$/CustomComponents.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customimageview/customimageview.iml" filepath="$PROJECT_DIR$/customimageview/customimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/floatingedittext/floatingedittext.iml" filepath="$PROJECT_DIR$/floatingedittext/floatingedittext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewanimation/listviewanimation.iml" filepath="$PROJECT_DIR$/listviewanimation/listviewanimation.iml" />
     </modules>
   </component>
 </project>

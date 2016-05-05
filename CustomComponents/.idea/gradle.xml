@@ -9,14 +9,18 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/customimageview" />
             <option value="$PROJECT_DIR$/floatingedittext" />
+            <option value="$PROJECT_DIR$/listviewanimation" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/customimageview" />
             <option value="$PROJECT_DIR$/floatingedittext" />
+            <option value="$PROJECT_DIR$/listviewanimation" />
           </set>
         </option>
       </GradleProjectSettings>
