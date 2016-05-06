@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DoubleUnderLineTextView">
+        <attr name="underlineColor" format="color" />
+        <attr name="underlineSpace" format="dimension" />
+    </declare-styleable>
+</resources>
