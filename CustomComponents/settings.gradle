@@ -1,1 +1,1 @@
-include ':app', ':floatingedittext', ':listviewanimation', ':customimageview'
+include ':app', ':floatingedittext', ':listviewanimation', ':customimageview', ':customtextviews'
