@@ -26,4 +26,5 @@ dependencies {
     compile project(":floatingedittext")
     compile project(":listviewanimation")
     compile project(":customtextviews")
+    compile project(":customimageview")
 }
