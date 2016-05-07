@@ -4,4 +4,10 @@
         <attr name="borderColour" format="color" />
         <attr name="borderPadding" format="dimension" />
     </declare-styleable>
+
+    <declare-styleable name="ImageViewWithName">
+        <attr name="textColour" format="color" />
+        <attr name="textBackgroundColour" format="color" />
+        <attr name="imageText" format="string" />
+    </declare-styleable>
 </resources>
