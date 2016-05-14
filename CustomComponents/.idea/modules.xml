@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomComponents.iml" filepath="$PROJECT_DIR$/CustomComponents.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardeditview/cardeditview.iml" filepath="$PROJECT_DIR$/cardeditview/cardeditview.iml" />
       <module fileurl="file://$PROJECT_DIR$/customimageview/customimageview.iml" filepath="$PROJECT_DIR$/customimageview/customimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/customtextviews/customtextviews.iml" filepath="$PROJECT_DIR$/customtextviews/customtextviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/floatingedittext/floatingedittext.iml" filepath="$PROJECT_DIR$/floatingedittext/floatingedittext.iml" />

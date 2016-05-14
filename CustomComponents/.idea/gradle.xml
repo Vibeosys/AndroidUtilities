@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cardeditview" />
             <option value="$PROJECT_DIR$/customimageview" />
             <option value="$PROJECT_DIR$/customtextviews" />
             <option value="$PROJECT_DIR$/floatingedittext" />
@@ -19,6 +20,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cardeditview" />
             <option value="$PROJECT_DIR$/customimageview" />
             <option value="$PROJECT_DIR$/customtextviews" />
             <option value="$PROJECT_DIR$/floatingedittext" />
