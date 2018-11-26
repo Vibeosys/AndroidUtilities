@@ -1,6 +1,10 @@
-/DbDownload/nbproject/private/
-/JavaApplication1/build/
-/JavaApplication1/nbproject/private/
-/JavaApplication1/dist/
-/DbDownload/build/
-/DbDownload/dist/
+*.iml
+.gradle
+/local.properties
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
