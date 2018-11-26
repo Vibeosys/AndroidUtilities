@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Validate">
+        <attr name="validate" format="string" />
+        <attr name="passwordMinRange" format="string" />
+        <attr name="passwordMaxRange" format="string" />
+        <attr name="mobileNumberMinRange" format="string" />
+        <attr name="mobileNumberMaxRange" format="string" />
+
+
+    </declare-styleable>
+</resources>
