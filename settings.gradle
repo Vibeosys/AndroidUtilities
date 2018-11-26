@@ -1,1 +1,1 @@
-include ':app', ':customutils','customimageview','customtextviews',':shuttercomponent'
+include ':app', ':customutils',':shuttercomponent'
